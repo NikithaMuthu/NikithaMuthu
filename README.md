@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NikithaMuthu
-- 🌱 I’m currently learning Mobile Development
 - 📫 How to reach me nikitha.se21@bitsathy.ac.in
 
 <!---
